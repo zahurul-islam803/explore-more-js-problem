@@ -249,3 +249,20 @@
 // console.log(result);
 
 // ----------------------------
+  
+
+// Fun Task
+
+// function pandaCost(singaraQuantity, somucaQuantity, jilapiQuantity){
+//   const singaraPrice = 7;
+//   const somucaPrice = 10;
+//   const jilapiPrice = 15;
+
+//   const singaraTotalPrice = singaraQuantity*singaraPrice;
+//   const somucaTotalPrice = somucaQuantity*somucaPrice;
+//   const jilapiTotalPrice = jilapiQuantity*jilapiPrice;
+//   const totalCost = singaraTotalPrice + somucaTotalPrice + jilapiTotalPrice;
+//   return totalCost;
+// }
+// const totalPrice = pandaCost(1,2,1);
+// console.log(totalPrice);
